@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\open project\ksvs-master\demo\app\libs\libksystat.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="56e59e91b0ef2fcea9db6f2a1baff3c4aa03f7d3">
+        <dex dex="D:\open project\ksvs-master\demo\app\build\intermediates\pre-dexed\debug\libksystat_815e9783cc5a4db0f99ef6af7876e71a8f4be7d5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\open project\ksvs-master\demo\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="D:\open project\ksvs-master\demo\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_d352de2ab72dc4a4c8044a59009440bcec2e78ae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\open project\ksvs-master\demo\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="D:\open project\ksvs-master\demo\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-24.2.1_120162f708ec02c0d15a18c33d35a67c95caa8bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\open project\ksvs-master\demo\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="D:\open project\ksvs-master\demo\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_474311920915b6642d2c7ede62b3f5fc5e7ad2de.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\GMARUnity\.gradle\caches\modules-2\files-2.1\com.nostra13.universalimageloader\universal-image-loader\1.9.4\dd9eeb557650c4ad7394df23f0f5cf27a7cfc697\universal-image-loader-1.9.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dd9eeb557650c4ad7394df23f0f5cf27a7cfc697">
+        <dex dex="D:\open project\ksvs-master\demo\app\build\intermediates\pre-dexed\debug\universal-image-loader-1.9.4_596327abaf7f90b1a400956256d6e438577dde7a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\open project\ksvs-master\demo\app\libs\ksylive.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="94ecabd1caadb20651f30a3555ff611ea897be96">
+        <dex dex="D:\open project\ksvs-master\demo\app\build\intermediates\pre-dexed\debug\ksylive_f31d5c0a3eeec4f3fdd5cf81a0cad7c2d06651cc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\open project\ksvs-master\demo\app\libs\libksysv.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fd315a92c560ce16b92d472ee139aa98c942bcd0">
+        <dex dex="D:\open project\ksvs-master\demo\app\build\intermediates\pre-dexed\debug\libksysv_730d4d84942a649eacf2ceb7ec5c87dfb0e490c6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\open project\ksvs-master\demo\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="D:\open project\ksvs-master\demo\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_3e56ab833c9ef08ac5dd200f8d1a3e046f599afa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\open project\ksvs-master\demo\app\libs\nama.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="df8c7b1f3c3b60af7a4eca206f5b2ded409b27e2">
+        <dex dex="D:\open project\ksvs-master\demo\app\build\intermediates\pre-dexed\debug\nama_9a9466d0aa10d55b3b0a00a625cdaa98bdbdac15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="J:\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="D:\open project\ksvs-master\demo\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_3ec195ab8da11975cb4cbb5cd4c509c5fea68441.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\open project\ksvs-master\demo\app\libs\isoparser-1.1.22.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="70b5c26b52c120d2e94643717a764c4a67640fd6">
+        <dex dex="D:\open project\ksvs-master\demo\app\build\intermediates\pre-dexed\debug\isoparser-1.1.22_a282015ea00bd28383ce37aaf12ea6a81676d078.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\open project\ksvs-master\demo\app\libs\ks3-android-sdk_1.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9fe7220b943f63eab2964e1d73f515f42590cf4e">
+        <dex dex="D:\open project\ksvs-master\demo\app\build\intermediates\pre-dexed\debug\ks3-android-sdk_1.4.1_99af4001559ddb51f74a85ba311c0526c3c0d35b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\open project\ksvs-master\demo\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="D:\open project\ksvs-master\demo\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_11a6e86a8a9352d87bb7ee6e10e9e1000a3df0c8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\open project\ksvs-master\demo\app\build\intermediates\exploded-aar\com.android.volley\volley\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="D:\open project\ksvs-master\demo\app\build\intermediates\pre-dexed\debug\com.android.volley-volley-1.0.0_5293dcc816bc336c7e092e9338f0155e41fbec40.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\open project\ksvs-master\demo\app\libs\libksyplayer.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2bc523ff0dfc8a899f2f21a870a5d3f65874512e">
+        <dex dex="D:\open project\ksvs-master\demo\app\build\intermediates\pre-dexed\debug\libksyplayer_6f14fec0edeb798d2b370c5fd8b23af491ee98c9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\open project\ksvs-master\demo\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="D:\open project\ksvs-master\demo\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_d55ac61a7ce39b3151063776e896d858fe21dd7b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\GMARUnity\.gradle\caches\modules-2\files-2.1\org.apache.httpcomponents\httpcore\4.4.2\b8e98ae35bf6e3f14382deb60f2ea6e4e0e220fd\httpcore-4.4.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b8e98ae35bf6e3f14382deb60f2ea6e4e0e220fd">
+        <dex dex="D:\open project\ksvs-master\demo\app\build\intermediates\pre-dexed\debug\httpcore-4.4.2_29a5d9bc442f02f600c0de51ad58095077ddf3e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\open project\ksvs-master\demo\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="D:\open project\ksvs-master\demo\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_34cb977f20aa9171d64ff1416bf9ef80ae5871c7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\open project\ksvs-master\demo\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="D:\open project\ksvs-master\demo\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_e6c608ace44887b4bf20f4633e8b549d33d19a51.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\open project\ksvs-master\demo\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="D:\open project\ksvs-master\demo\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_c462e297bd06681c5f2286372342662a431563f3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\open project\ksvs-master\demo\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="D:\open project\ksvs-master\demo\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_46ce52a53f3848cf0f96acde9cd3ab15d96f8b4d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\open project\ksvs-master\demo\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="D:\open project\ksvs-master\demo\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_83782146188a3df14f8b0f2836689cc57849cb65.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\open project\ksvs-master\demo\app\libs\android-async-http-1.4.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a845a88238be0b5be9d238652c1bc0605ef91f52">
+        <dex dex="D:\open project\ksvs-master\demo\app\build\intermediates\pre-dexed\debug\android-async-http-1.4.6_10ebe78c19da603b1a30f07f929e5179607fe2cd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\open project\ksvs-master\demo\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="D:\open project\ksvs-master\demo\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_0d4b5bfff9c661c30aceb187eb94c1e87ac71d17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\open project\ksvs-master\demo\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="D:\open project\ksvs-master\demo\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_bd784bb7105d0c447909e997b812134bcf73b386.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\open project\ksvs-master\demo\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\open project\ksvs-master\demo\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_ae95ef2e2937b70e9d1adb308b569966ea36f16c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\open project\ksvs-master\demo\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="D:\open project\ksvs-master\demo\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_328b71be79a1680f88bc1f686af22efc7c1d6d6f.jar" />
+    </item>
+
+</items>

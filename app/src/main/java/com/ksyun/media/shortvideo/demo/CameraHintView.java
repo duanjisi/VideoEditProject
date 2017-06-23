@@ -40,7 +40,6 @@ public class CameraHintView extends View implements ICameraHintView {
     public CameraHintView(Context context) {
         super(context);
         init();
-        Toast.makeText(context,"------",Toast.LENGTH_SHORT).show();
     }
 
     public CameraHintView(Context context, AttributeSet attrs) {
